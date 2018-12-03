@@ -16,6 +16,9 @@
 - Requests
   * It can be installed using `sudo pip install requests` or `sudo apt-get install python-requests`
 
+- lxml 
+  * It can be installed using `sudo pip install lxml` or `sudo apt-get install python-lxml`
+
 
 
 It is implemented using the **BeautifulSoup** module of **bs4** , **requests** module, along with **os**, **sys** and **json** modules.
